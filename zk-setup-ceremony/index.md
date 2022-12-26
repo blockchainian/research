@@ -1,4 +1,4 @@
-# Setup Ceremonies
+# ZK Setup Ceremonies
 
 https://zkproof.org/2021/06/30/setup-ceremonies
 
